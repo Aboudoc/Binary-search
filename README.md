@@ -120,6 +120,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Binary Search
 
+Notice that uint8 is used for the output of the function since it will be a number between 0 to 255.
+
 ## Maths
 
 Let's consider the following example:
